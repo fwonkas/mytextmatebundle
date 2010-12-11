@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Joe's Awesome Bundle</string>
+	<key>uuid</key>
+	<string>7C7D9E8C-8928-4FDE-B1D9-780ADDDDEFBA</string>
+</dict>
+</plist>
