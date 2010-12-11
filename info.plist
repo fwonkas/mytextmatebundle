@@ -4,6 +4,12 @@
 <dict>
 	<key>name</key>
 	<string>Joe's Awesome Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>89971BA1-2434-4C76-AB62-B0D7FA1B342D</string>
+		<string>2BC7E04A-535F-46AC-BA25-EF61A2563454</string>
+		<string>021A0A3F-AB28-4A25-ACBD-9204505D3D6D</string>
+	</array>
 	<key>uuid</key>
 	<string>7C7D9E8C-8928-4FDE-B1D9-780ADDDDEFBA</string>
 </dict>
