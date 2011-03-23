@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-transition: ${1:left} ${2:1s} ${3:ease/linear/ease-in/ease-out/ease-in-out/cubic-bezier(x1, y1, x2, y2)};
+   -moz-transition: ${1:left} ${2:1s} ${3:ease/linear/ease-in/ease-out/ease-in-out/cubic-bezier(x1, y1, x2, y2)};
+        transition: ${1:left} ${2:1s} ${3:ease/linear/ease-in/ease-out/ease-in-out/cubic-bezier(x1, y1, x2, y2)};</string>
+	<key>name</key>
+	<string>CSS Transition</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>tran</string>
+	<key>uuid</key>
+	<string>5D2D82F2-48B0-4E55-BAE6-A29D708D2BC9</string>
+</dict>
+</plist>
