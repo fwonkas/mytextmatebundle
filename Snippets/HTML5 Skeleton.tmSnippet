@@ -13,7 +13,7 @@
 		&lt;title&gt;${1:${TM_FILENAME/((.+)\..*)?/(?2:$2:Page Title)/}}&lt;/title&gt;
 		&lt;meta name="description" content="" /&gt;
 		&lt;meta name="author" content="${2:${TM_FULLNAME}}"&gt;
-		&lt;link rel="stylesheet" href="/css/master.css" type="text/css" media="screen" title="Low-level styles" charset="utf-8" /&gt;
+		&lt;link rel="stylesheet" href="css/master.css" type="text/css" media="screen" title="Low-level styles" charset="utf-8" /&gt;
 	&lt;/head&gt;
 	&lt;body&gt;
 		&lt;header&gt;
@@ -25,7 +25,9 @@
 		&lt;footer&gt;
 			
 		&lt;/footer&gt;
-		&lt;script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"&gt;&lt;/script&gt;
+		&lt;!--&lt;script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"&gt;&lt;/script&gt;--&gt;
+		&lt;script src="//code.jquery.com/jquery-1.5.min.js"&gt;&lt;/script&gt;
+		&lt;script src="js/script.js"&gt;&lt;/script&gt;
 		&lt;script&gt;
 			
 		&lt;/script&gt;
