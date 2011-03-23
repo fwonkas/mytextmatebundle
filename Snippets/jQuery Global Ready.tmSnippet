@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$(global).ready(function() {
+	$0
+});</string>
+	<key>name</key>
+	<string>jQuery Global Ready</string>
+	<key>scope</key>
+	<string>source.js.jquery</string>
+	<key>tabTrigger</key>
+	<string>gr</string>
+	<key>uuid</key>
+	<string>EDD71E85-FB0E-4F51-82D7-4895E3B357A9</string>
+</dict>
+</plist>
